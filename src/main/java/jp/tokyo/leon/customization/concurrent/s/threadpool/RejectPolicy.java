@@ -1,4 +1,4 @@
-package jp.tokyo.leon.customization.concurrent.s.thread.pool;
+package jp.tokyo.leon.customization.concurrent.s.threadpool;
 
 /**
  * @author leon
